@@ -1,3 +1,3 @@
 # Artificial Intelligence homework
 
-Original course [link](https://courses.cs.ut.ee/2018/ai/fall)
+Three basic AI projects that were created with Python. 
